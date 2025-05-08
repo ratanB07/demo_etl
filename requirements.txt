@@ -1,0 +1,11 @@
+Flask
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+openai
+python-dotenv
+flask-cors
+werkzeug
